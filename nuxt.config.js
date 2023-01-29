@@ -37,4 +37,8 @@ export default {
       Poppins: true,
     },
   },
+  target: 'static',
+  router: {
+    base: '/<repository-name>/'
+  }
 };

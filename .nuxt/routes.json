@@ -1,0 +1,23 @@
+[
+  {
+    "name": "rsvp",
+    "path": "/rsvp",
+    "component": "/Users/alisterhewitt/Documents/wedding/wedding-/pages/rsvp.vue",
+    "chunkName": "pages/rsvp",
+    "_name": "_cba211a4"
+  },
+  {
+    "name": "thanks",
+    "path": "/thanks",
+    "component": "/Users/alisterhewitt/Documents/wedding/wedding-/pages/thanks.vue",
+    "chunkName": "pages/thanks",
+    "_name": "_670f8908"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/alisterhewitt/Documents/wedding/wedding-/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b2427722"
+  }
+]

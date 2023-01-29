@@ -1,0 +1,29 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/contact.js": "components/contact.js",
+    "components/intro.js": "components/intro.js",
+    "components/nuxt-logo.js": "components/nuxt-logo.js",
+    "components/rsvp.js": "components/rsvp.js",
+    "components/timeline.js": "components/timeline.js",
+    "components/tutorial.js": "components/tutorial.js",
+    "components/where.js": "components/where.js",
+    "pages/index.js": "pages/index.js",
+    "pages/rsvp.js": "pages/rsvp.js",
+    "pages/thanks.js": "pages/thanks.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/contact.js": "components/contact.js.map",
+    "components/intro.js": "components/intro.js.map",
+    "components/nuxt-logo.js": "components/nuxt-logo.js.map",
+    "components/rsvp.js": "components/rsvp.js.map",
+    "components/timeline.js": "components/timeline.js.map",
+    "components/tutorial.js": "components/tutorial.js.map",
+    "components/where.js": "components/where.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/rsvp.js": "pages/rsvp.js.map",
+    "pages/thanks.js": "pages/thanks.js.map",
+    "server.js": "server.js.map"
+  }
+}

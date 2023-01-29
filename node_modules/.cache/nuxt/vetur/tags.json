@@ -1,0 +1,23 @@
+{
+  "Contact": {
+    "description": "Auto imported from components/Contact.vue"
+  },
+  "Intro": {
+    "description": "Auto imported from components/Intro.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Rsvp": {
+    "description": "Auto imported from components/Rsvp.vue"
+  },
+  "Timeline": {
+    "description": "Auto imported from components/Timeline.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "Where": {
+    "description": "Auto imported from components/Where.vue"
+  }
+}

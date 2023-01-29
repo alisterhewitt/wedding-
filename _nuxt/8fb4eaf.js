@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{333:function(n,e,r){"use strict";r.r(e);var t={name:"Where"},o=r(43),component=Object(o.a)(t,(function(){this._self._c;return this._m(0)}),[function(){var n=this,e=n._self._c;return e("div",[e("h1",[n._v("Where")]),n._v(" "),e("h2",[n._v("Tros yr afon")])])}],!1,null,null,null);e.default=component.exports}}]);
